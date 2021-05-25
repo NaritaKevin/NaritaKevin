@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in coding and games
+- 🌱 I’m currently learning web development
+- 📫 How to reach me 
+- E-mail: kevin.narita@outlook.com
